@@ -99,3 +99,10 @@ Picked the stocks meeting the above three conditions
 - Annual volatility: 16.2%
 - Sharpe Ratio: 1.60
 
+## How to Run the code
+
+- Clone the repo and run from notebook 01-03 in order and the the remaining notebooks are individual portfolio.
+- Run these portfolios as desired.
+- Three folders (figures, portfolio, stock_data) are needed to be created in the environment otherwise code will give error
+
+## Any Feedback would be greatly appreciated!
