@@ -17,7 +17,7 @@ The Goal of this project is to screen the individual stocks from the S&P 500 sto
 
 ## 03 - Picking the Best Performers
 
-- Started out with 443 stocks that are in the S&P that were founded before the year 2011. 
+- Started out with 443 stocks that are in the S&P that were founded before the year 2010. 
 - From these stocks we compared each stocks returns over the S&P return over the exact same time period
 - This gave us a ratio of each stocks return over the S&Ps return as a whole
 - We then took the top 30% performers to analyze for creating the portfolios. 
