@@ -1,4 +1,4 @@
-# Project 1: Stock Screener
+# Stock Screener
 
 The Goal of this project is to screen the individual stocks from the S&P 500 stock list and make an optimized portfolio of stocks with better returns, risk, sharpe ratio and comparitive diversity.
 
